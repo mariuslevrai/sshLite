@@ -1,6 +1,6 @@
 # sshLite
 # Installation
 - Install git with apt :
-  ```bash
+```bash
 sudo apt-get install git
-  ```
+```
