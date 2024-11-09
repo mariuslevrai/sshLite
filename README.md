@@ -2,5 +2,5 @@
 # Installation
 - Install git with apt
 ``bash
-sudo apt-get install git
+  sudo apt-get install git
 ``
