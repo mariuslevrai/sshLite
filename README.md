@@ -1,5 +1,5 @@
 # sshLite
-sshLite is only available on linux 🐧
+# sshLite is only available on linux 🐧
 # Requirements
 - x64 or x32 cpu
 - Python 3.12.3
